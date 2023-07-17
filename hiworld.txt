@@ -231,3 +231,5 @@ internal class Program
         }
 
     }
+
+1 차 수정
